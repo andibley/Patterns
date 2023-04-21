@@ -14,7 +14,7 @@ public class PatternMaker {
         Pattern4();
     }
 
-    public void Pattern1() {
+    public void Pattern1() { 
         for (int x = 0; x < 6; x++) {
             //  for (int y = 0; y < 5; y++) {
             System.out.println(x * 5);
